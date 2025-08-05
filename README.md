@@ -1,6 +1,6 @@
-# README.md
+## Hey!
 
-Hey there, I'm a recent graduate from the University of Toronto that studied Computer Science and Mathematics.
+I'm a recent graduate from the University of Toronto that studied Computer Science and Mathematics.
 
 Currently looking for an entry level position where I can put my skills to work!
 
