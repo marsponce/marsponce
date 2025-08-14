@@ -1,4 +1,4 @@
-## hey
+## hey!
 
 I'm a recent graduate from the University of Toronto who studied Computer Science and Mathematics.
 
