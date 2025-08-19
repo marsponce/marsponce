@@ -7,7 +7,7 @@ Currently looking for an entry level position where I can put my skills to work.
 ## about
 
 - 🧑‍🎓 Education: HBSc Computer Science at the University of Toronto Mississauga.
-- 🔭 I’m currently working on: __(wikigraph3D)[https://github.com/marceloponceardon/wikigraph3D]__.
+- 🔭 I’m currently working on: __[wikigraph3D](https://github.com/marceloponceardon/wikigraph3D)__.
 - 🌱 I’m currently learning: MERN stack for a future project.
 - 📫 How to reach me: by _[email](mailto:marceloponceardon@gmail.com)_
 - 😄 Pronouns: _they/them_
