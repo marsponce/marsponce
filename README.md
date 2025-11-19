@@ -16,7 +16,7 @@ Currently looking for an entry level position where I can put my skills to work.
 
 <div align="center">
 <a href="https://github.com/marceloponceardon/">
-  <img height=206 src="https://github-readme-stats.vercel.app/api?username=marceloponceardon&theme=synthwave&custom_title=github" />
+  <img height=206 src="https://github-readme-stats.vercel.app/api?username=marceloponceardon&theme=synthwave&custom_title=github&hide_rank=true" />
 </a>
 <a href="https://github.com/marceloponceardon/">
   <img height=206 src="https://github-readme-stats.vercel.app/api/top-langs/?username=marceloponceardon&hide=Jupyter%20Notebook,TeX&layout=compact&card_width=432&langs_count=8&theme=tokyonight&custom_title=languages" />
