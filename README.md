@@ -12,6 +12,7 @@ Currently looking for an entry level position where I can put my skills to work.
 - 📫 How to reach me: by _[email](mailto:mars@marsponce.ca)_
 - 😄 Pronouns: _they/them_
 
+<!--
 ## stats ##
 
 <div align="center">
@@ -22,6 +23,7 @@ Currently looking for an entry level position where I can put my skills to work.
   <img height=206 src="https://github-readme-stats.vercel.app/api/top-langs/?username=marceloponceardon&hide=Jupyter%20Notebook,TeX&layout=compact&card_width=432&langs_count=8&theme=tokyonight&custom_title=languages" />
 </a>
 </div>
+-->
 
 
 <!--
