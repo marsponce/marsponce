@@ -9,7 +9,7 @@ Currently looking for an entry level position where I can put my skills to work.
 - 🧑‍🎓 Education: HBSc Computer Science at the University of Toronto Mississauga.
 - 🔭 I’m currently working on: __[wikigraph3D](https://github.com/marceloponceardon/wikigraph3D)__.
 - 🌱 I’m currently learning: __Next.js__, __TypeScript__, and the __Wikipedia API__.
-- 📫 How to reach me: by _[email](mailto:marcelo.ponce@alumni.utoronto.ca)_
+- 📫 How to reach me: by _[email](mailto:mars@marsponce.ca)_
 - 😄 Pronouns: _they/them_
 
 ## stats ##
