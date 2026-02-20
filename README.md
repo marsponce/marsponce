@@ -7,11 +7,13 @@ Currently looking for an entry level position where I can put my skills to work.
 ## about
 
 - 🧑‍🎓 Education: HBSc Computer Science at the University of Toronto Mississauga.
-- 🔭 I’m currently working on: __[wikigraph3D](https://github.com/marceloponceardon/wikigraph3D)__.
+- 🔭 I’m currently working on: __[wikigraph3D](https://github.com/marceloponceardon/wikigraph3D)__ (see below).
 - 🌱 I’m currently learning: __Next.js__, __TypeScript__, and the __Wikipedia API__.
 - 📫 How to reach me: by _[email](mailto:mars@marsponce.ca)_
 - 😄 Pronouns: _they/them_
 
+
+<iframe src="https://wikigraph3d.netlify.app/" width="100%" height="500" />
 <!--
 ## stats ##
 
