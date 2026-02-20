@@ -11,6 +11,7 @@ Currently looking for an entry level position where I can put my skills to work.
 - 🌱 I’m currently learning: __Next.js__, __TypeScript__, and the __Wikipedia API__.
 - 📫 How to reach me: by _[email](mailto:mars@marsponce.ca)_
 - 😄 Pronouns: _they/them_
+- 📃 Resume: found _[here](https://marsponce.github.io/marsponce/resume.pdf)_.
 
 <!--
 ## stats ##
