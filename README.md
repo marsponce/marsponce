@@ -1,6 +1,6 @@
 ## hey!
 
-I'm a recent graduate from the University of Toronto who studied Computer Science and Mathematics.
+I'm a graduate from the University of Toronto who studied Computer Science and Mathematics.
 
 Currently looking for an entry level position where I can put my skills to work.
 
