@@ -7,8 +7,8 @@ Currently looking for an entry level position where I can put my skills to work.
 ## about
 
 - 🧑‍🎓 Education: HBSc Computer Science at the University of Toronto Mississauga.
-- 🔭 I’m currently working on: __[wikigraph3D](https://github.com/marceloponceardon/wikigraph3D)__ and __[notiondb](https://github.com/EthanSansom/notiondb)__.
-- 🌱 I’m currently learning: __Next.js__, __TypeScript__, __C++11__, and how to __[build an interpreter](https://craftinginterpreters.com/)__.
+- 🔭 I’m currently working on: __[tobytran.art](https://github.com/marsponce/tobytran.art)__ and __[notiondb](https://github.com/EthanSansom/notiondb)__.
+- 🌱 I’m currently learning: __Gatsby__, __TypeScript__, __C++11__, and how to __[build an interpreter](https://craftinginterpreters.com/)__.
 - 📫 How to reach me: by _[email](mailto:mars@marsponce.ca)_
 - 😄 Pronouns: _they/them_
 - 📃 Resume: found _[here](https://marsponce.github.io/marsponce/resume.pdf)_.
