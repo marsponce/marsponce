@@ -7,14 +7,14 @@ I'm a graduate from the University of Toronto who studied Computer Science and M
 ## about
 
 - 🧑‍🎓 Education: HBSc Computer Science at the University of Toronto Mississauga.
-<!-- 
-- 🔭 I’m currently working on: __[tobytran.art](https://github.com/marsponce/tobytran.art)__, __[julessansom.com](https://github.com/marsponce/julessansom.com)__, and __[notiondb](https://github.com/EthanSansom/notiondb)__.
-- 🌱 I’m currently learning: __Next.js__, __TypeScript__, __C++11__, and how to __[build an interpreter](https://craftinginterpreters.com/)__.
--->
 - 📫 How to reach me: by _[email](mailto:mars@marsponce.ca)_
 - 😄 Pronouns: _they/them_
 <!--
 - 📃 Resume: found _[here](https://marsponce.github.io/marsponce/resume.pdf)_.
+-->
+<!-- 
+- 🔭 I’m currently working on: __[tobytran.art](https://github.com/marsponce/tobytran.art)__, __[julessansom.com](https://github.com/marsponce/julessansom.com)__, and __[notiondb](https://github.com/EthanSansom/notiondb)__.
+- 🌱 I’m currently learning: __Next.js__, __TypeScript__, __C++11__, and how to __[build an interpreter](https://craftinginterpreters.com/)__.
 -->
 
 <!--
